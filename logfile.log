@@ -1,0 +1,542 @@
+2016-05-29 21:51:28,758 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:51:28,760 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:51:28,761 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-29 21:51:28,761 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:51:28,761 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:55:00,021 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:55:00,023 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:55:00,023 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-29 21:55:00,023 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:55:00,023 INFO  [Log] **************************************************************************************** 
+2016-05-29 21:55:02,838 INFO  [Log]  Excel sheet opened 
+2016-05-29 21:55:21,503 INFO  [Log] New driver instantiated 
+2016-05-29 21:55:21,591 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-05-29 21:55:34,282 INFO  [Log] Web application launched 
+2016-05-29 21:55:34,469 INFO  [Log] My Account link is clicked 
+2016-05-29 21:55:38,267 INFO  [Log] Username is found 
+2016-05-29 21:55:38,405 INFO  [Log] Password is available 
+2016-05-29 21:55:38,518 INFO  [Log] Login is avasilable 
+2016-05-29 21:55:38,866 INFO  [Log] Click action is perfomred on Log Out link 
+2016-05-29 21:55:40,503 INFO  [Log] Browser closed 
+2016-05-29 21:55:40,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-05-29 21:55:40,943 INFO  [Log] X 
+2016-05-29 21:55:40,943 INFO  [Log] X 
+2016-05-29 21:55:40,943 INFO  [Log] X 
+2016-05-29 21:55:40,943 INFO  [Log] X 
+2016-05-31 05:53:15,814 INFO  [Log] **************************************************************************************** 
+2016-05-31 05:53:15,826 INFO  [Log] **************************************************************************************** 
+2016-05-31 05:53:15,827 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-31 05:53:15,827 INFO  [Log] **************************************************************************************** 
+2016-05-31 05:53:15,828 INFO  [Log] **************************************************************************************** 
+2016-05-31 05:53:18,786 INFO  [Log]  Excel sheet opened 
+2016-05-31 05:53:37,577 INFO  [Log] New driver instantiated 
+2016-05-31 05:53:37,686 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-05-31 05:53:44,819 INFO  [Log] Web application launched 
+2016-05-31 05:53:44,821 INFO  [Log] Username picked from excel 
+2016-05-31 05:53:44,821 INFO  [Log] Password picked from excel 
+2016-05-31 05:53:45,029 INFO  [Log] My Account link is clicked 
+2016-05-31 05:53:45,340 INFO  [Log] Click is performed on my act 
+2016-05-31 05:53:48,681 INFO  [Log] Username is found 
+2016-05-31 05:53:48,762 INFO  [Log] Data entered into username 
+2016-05-31 05:53:48,809 INFO  [Log] Password is available 
+2016-05-31 05:53:48,881 INFO  [Log] Data entered into pwd 
+2016-05-31 05:53:48,916 INFO  [Log] Login is avasilable 
+2016-05-31 05:53:49,237 INFO  [Log] Login button clicked 
+2016-05-31 05:53:49,240 INFO  [Log] Click action is perfomred on Log Out link 
+2016-05-31 05:53:50,478 INFO  [Log] Browser closed 
+2016-05-31 05:53:50,851 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-05-31 05:53:50,851 INFO  [Log] X 
+2016-05-31 05:53:50,851 INFO  [Log] X 
+2016-05-31 05:53:50,851 INFO  [Log] X 
+2016-05-31 05:53:50,851 INFO  [Log] X 
+2016-06-17 07:57:07,925 INFO  [Log] **************************************************************************************** 
+2016-06-17 07:57:07,928 INFO  [Log] **************************************************************************************** 
+2016-06-17 07:57:07,928 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-06-17 07:57:07,928 INFO  [Log] **************************************************************************************** 
+2016-06-17 07:57:07,928 INFO  [Log] **************************************************************************************** 
+2016-06-17 07:57:09,825 INFO  [Log]  Excel sheet opened 
+2016-06-17 07:57:39,520 INFO  [Log] New driver instantiated 
+2016-06-17 07:57:40,448 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-06-17 07:57:50,893 INFO  [Log] Web application launched 
+2016-06-17 07:57:50,895 INFO  [Log] Username picked from excel 
+2016-06-17 07:57:50,895 INFO  [Log] Password picked from excel 
+2016-06-17 07:57:51,113 INFO  [Log] My Account link is clicked 
+2016-06-17 07:57:51,419 INFO  [Log] Click is performed on my act 
+2016-06-17 07:57:54,845 INFO  [Log] Username is found 
+2016-06-17 07:57:54,968 INFO  [Log] Data entered into username 
+2016-06-17 07:57:55,003 INFO  [Log] Password is available 
+2016-06-17 07:57:55,082 INFO  [Log] Data entered into pwd 
+2016-06-17 07:57:55,117 INFO  [Log] Login is avasilable 
+2016-06-17 07:57:55,510 INFO  [Log] Login button clicked 
+2016-06-17 07:57:55,511 INFO  [Log] Click action is perfomred on Log Out link 
+2016-06-17 07:58:00,165 INFO  [Log] Browser closed 
+2016-06-17 07:58:00,783 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-06-17 07:58:00,783 INFO  [Log] X 
+2016-06-17 07:58:00,783 INFO  [Log] X 
+2016-06-17 07:58:00,783 INFO  [Log] X 
+2016-06-17 07:58:00,783 INFO  [Log] X 
+2016-07-11 19:33:20,779 INFO  [Log] **************************************************************************************** 
+2016-07-11 19:33:20,781 INFO  [Log] **************************************************************************************** 
+2016-07-11 19:33:20,781 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-11 19:33:20,781 INFO  [Log] **************************************************************************************** 
+2016-07-11 19:33:20,781 INFO  [Log] **************************************************************************************** 
+2016-07-11 19:33:23,577 INFO  [Log]  Excel sheet opened 
+2016-07-11 19:33:48,858 INFO  [Log] New driver instantiated 
+2016-07-11 19:33:48,905 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-11 19:34:00,271 INFO  [Log] Web application launched 
+2016-07-11 19:34:00,318 INFO  [Log] Username picked from excel 
+2016-07-11 19:34:00,318 INFO  [Log] Password picked from excel 
+2016-07-11 19:34:00,539 INFO  [Log] My Account link is clicked 
+2016-07-11 19:34:00,795 INFO  [Log] Click is performed on my act 
+2016-07-11 19:34:04,459 INFO  [Log] Username is found 
+2016-07-11 19:34:04,558 INFO  [Log] Data entered into username 
+2016-07-11 19:34:04,595 INFO  [Log] Password is available 
+2016-07-11 19:34:04,687 INFO  [Log] Data entered into pwd 
+2016-07-11 19:34:04,717 INFO  [Log] Login is avasilable 
+2016-07-11 19:34:05,134 INFO  [Log] Login button clicked 
+2016-07-11 19:34:05,135 INFO  [Log] Click action is perfomred on Log Out link 
+2016-07-11 19:34:07,734 INFO  [Log] Browser closed 
+2016-07-11 19:34:08,282 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-11 19:34:08,282 INFO  [Log] X 
+2016-07-11 19:34:08,282 INFO  [Log] X 
+2016-07-11 19:34:08,282 INFO  [Log] X 
+2016-07-11 19:34:08,282 INFO  [Log] X 
+2016-07-12 07:59:00,550 INFO  [Log] **************************************************************************************** 
+2016-07-12 07:59:00,559 INFO  [Log] **************************************************************************************** 
+2016-07-12 07:59:00,559 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-12 07:59:00,559 INFO  [Log] **************************************************************************************** 
+2016-07-12 07:59:00,560 INFO  [Log] **************************************************************************************** 
+2016-07-12 07:59:03,221 INFO  [Log]  Excel sheet opened 
+2016-07-12 07:59:23,645 INFO  [Log] New driver instantiated 
+2016-07-12 07:59:24,220 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-12 07:59:34,780 INFO  [Log] Web application launched 
+2016-07-12 07:59:34,783 INFO  [Log] Username picked from excel 
+2016-07-12 07:59:34,783 INFO  [Log] Password picked from excel 
+2016-07-12 07:59:35,000 INFO  [Log] My Account link is clicked 
+2016-07-12 07:59:35,322 INFO  [Log] Click is performed on my act 
+2016-07-12 07:59:38,966 INFO  [Log] Username is found 
+2016-07-12 07:59:39,062 INFO  [Log] Data entered into username 
+2016-07-12 07:59:39,119 INFO  [Log] Password is available 
+2016-07-12 07:59:39,191 INFO  [Log] Data entered into pwd 
+2016-07-12 07:59:39,244 INFO  [Log] Login is avasilable 
+2016-07-12 07:59:39,669 INFO  [Log] Login button clicked 
+2016-07-12 07:59:39,669 INFO  [Log] Click action is perfomred on Log Out link 
+2016-07-12 07:59:44,023 INFO  [Log] Browser closed 
+2016-07-12 07:59:44,719 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-12 07:59:44,719 INFO  [Log] X 
+2016-07-12 07:59:44,719 INFO  [Log] X 
+2016-07-12 07:59:44,720 INFO  [Log] X 
+2016-07-12 07:59:44,720 INFO  [Log] X 
+2016-07-12 12:33:08,251 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,264 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,264 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-12 12:33:08,265 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,265 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,326 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,329 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,329 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-12 12:33:08,329 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,329 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,824 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,827 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,827 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-12 12:33:08,827 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:08,828 INFO  [Log] **************************************************************************************** 
+2016-07-12 12:33:12,058 INFO  [Log]  Excel sheet opened 
+2016-07-12 12:33:12,058 INFO  [Log]  Excel sheet opened 
+2016-07-12 12:33:12,058 INFO  [Log]  Excel sheet opened 
+2016-07-12 12:33:35,644 INFO  [Log] New driver instantiated 
+2016-07-12 12:33:35,965 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-12 12:33:51,106 INFO  [Log] New driver instantiated 
+2016-07-12 12:33:51,514 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-12 12:34:06,460 INFO  [Log] New driver instantiated 
+2016-07-12 12:34:06,868 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-16 00:05:33,277 INFO  [Log] **************************************************************************************** 
+2016-07-16 00:05:33,279 INFO  [Log] **************************************************************************************** 
+2016-07-16 00:05:33,279 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-16 00:05:33,279 INFO  [Log] **************************************************************************************** 
+2016-07-16 00:05:33,279 INFO  [Log] **************************************************************************************** 
+2016-07-16 00:05:36,301 INFO  [Log]  Excel sheet opened 
+2016-07-16 00:06:00,728 INFO  [Log] New driver instantiated 
+2016-07-16 00:06:01,007 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-16 00:06:17,786 INFO  [Log] Web application launched 
+2016-07-16 00:06:17,804 INFO  [Log] Username picked from excel 
+2016-07-16 00:06:17,804 INFO  [Log] Password picked from excel 
+2016-07-16 00:06:18,049 INFO  [Log] My Account link is clicked 
+2016-07-16 00:06:18,292 INFO  [Log] Click is performed on my act 
+2016-07-16 00:06:21,691 INFO  [Log] Username is found 
+2016-07-16 00:06:21,787 INFO  [Log] Data entered into username 
+2016-07-16 00:06:21,817 INFO  [Log] Password is available 
+2016-07-16 00:06:21,930 INFO  [Log] Data entered into pwd 
+2016-07-16 00:06:21,976 INFO  [Log] Login is avasilable 
+2016-07-16 00:06:22,336 INFO  [Log] Login button clicked 
+2016-07-16 00:06:22,337 INFO  [Log] Click action is perfomred on Log Out link 
+2016-07-16 00:06:25,889 INFO  [Log] Browser closed 
+2016-07-16 00:06:26,262 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-16 00:06:26,262 INFO  [Log] X 
+2016-07-16 00:06:26,262 INFO  [Log] X 
+2016-07-16 00:06:26,263 INFO  [Log] X 
+2016-07-16 00:06:26,263 INFO  [Log] X 
+2016-07-16 07:59:25,347 INFO  [Log] **************************************************************************************** 
+2016-07-16 07:59:25,373 INFO  [Log] **************************************************************************************** 
+2016-07-16 07:59:25,373 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-16 07:59:25,373 INFO  [Log] **************************************************************************************** 
+2016-07-16 07:59:25,373 INFO  [Log] **************************************************************************************** 
+2016-07-16 07:59:28,354 INFO  [Log]  Excel sheet opened 
+2016-07-16 07:59:55,074 INFO  [Log] New driver instantiated 
+2016-07-16 07:59:55,271 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-16 08:00:08,241 INFO  [Log] Web application launched 
+2016-07-16 08:00:08,249 INFO  [Log] Username picked from excel 
+2016-07-16 08:00:08,249 INFO  [Log] Password picked from excel 
+2016-07-16 08:00:08,453 INFO  [Log] My Account link is clicked 
+2016-07-16 08:00:08,710 INFO  [Log] Click is performed on my act 
+2016-07-16 08:00:12,754 INFO  [Log] Username is found 
+2016-07-16 08:00:12,840 INFO  [Log] Data entered into username 
+2016-07-16 08:00:12,891 INFO  [Log] Password is available 
+2016-07-16 08:00:12,970 INFO  [Log] Data entered into pwd 
+2016-07-16 08:00:13,014 INFO  [Log] Login is avasilable 
+2016-07-16 08:00:13,303 INFO  [Log] Login button clicked 
+2016-07-16 08:00:13,304 INFO  [Log] Click action is perfomred on Log Out link 
+2016-07-16 08:00:16,395 INFO  [Log] Browser closed 
+2016-07-16 08:00:17,046 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-16 08:00:17,046 INFO  [Log] X 
+2016-07-16 08:00:17,046 INFO  [Log] X 
+2016-07-16 08:00:17,046 INFO  [Log] X 
+2016-07-16 08:00:17,046 INFO  [Log] X 
+2016-08-08 09:37:29,042 INFO  [Log] **************************************************************************************** 
+2016-08-08 09:37:29,043 INFO  [Log] **************************************************************************************** 
+2016-08-08 09:37:29,044 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-08 09:37:29,044 INFO  [Log] **************************************************************************************** 
+2016-08-08 09:37:29,044 INFO  [Log] **************************************************************************************** 
+2016-08-08 09:37:31,140 INFO  [Log]  Excel sheet opened 
+2016-08-08 09:37:50,192 INFO  [Log] New driver instantiated 
+2016-08-08 09:37:50,682 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-08 09:38:04,743 INFO  [Log] Web application launched 
+2016-08-08 09:38:04,757 INFO  [Log] Username picked from excel 
+2016-08-08 09:38:04,757 INFO  [Log] Password picked from excel 
+2016-08-08 09:38:05,257 INFO  [Log] Click is performed on my act 
+2016-08-08 09:38:09,241 INFO  [Log] Username is found 
+2016-08-08 09:38:09,364 INFO  [Log] Data entered into username 
+2016-08-08 09:38:09,406 INFO  [Log] Password is available 
+2016-08-08 09:38:09,492 INFO  [Log] Data entered into pwd 
+2016-08-08 09:38:09,527 INFO  [Log] Login is avasilable 
+2016-08-08 09:38:09,910 INFO  [Log] Login button clicked 
+2016-08-08 09:38:09,910 INFO  [Log] Click action is perfomred on Log Out link 
+2016-08-08 09:38:13,090 INFO  [Log] Browser closed 
+2016-08-08 09:38:13,698 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-08 09:38:13,698 INFO  [Log] X 
+2016-08-08 09:38:13,698 INFO  [Log] X 
+2016-08-08 09:38:13,698 INFO  [Log] X 
+2016-08-08 09:38:13,698 INFO  [Log] X 
+2016-08-23 08:24:07,819 INFO  [Log] **************************************************************************************** 
+2016-08-23 08:24:07,828 INFO  [Log] **************************************************************************************** 
+2016-08-23 08:24:07,828 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-23 08:24:07,829 INFO  [Log] **************************************************************************************** 
+2016-08-23 08:24:07,829 INFO  [Log] **************************************************************************************** 
+2016-08-23 08:24:10,425 INFO  [Log]  Excel sheet opened 
+2016-08-23 08:24:36,330 INFO  [Log] New driver instantiated 
+2016-08-23 08:24:37,268 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-23 08:24:54,316 INFO  [Log] Web application launched 
+2016-08-23 08:24:54,328 INFO  [Log] Username picked from excel 
+2016-08-23 08:24:54,334 INFO  [Log] Password picked from excel 
+2016-08-23 08:24:55,225 INFO  [Log] Click is performed on my act 
+2016-08-23 08:24:59,018 INFO  [Log] Username is found 
+2016-08-23 08:24:59,150 INFO  [Log] Data entered into username 
+2016-08-23 08:24:59,183 INFO  [Log] Password is available 
+2016-08-23 08:24:59,266 INFO  [Log] Data entered into pwd 
+2016-08-23 08:24:59,317 INFO  [Log] Login is avasilable 
+2016-08-23 08:24:59,691 INFO  [Log] Login button clicked 
+2016-08-23 08:24:59,692 INFO  [Log] Click action is perfomred on Log Out link 
+2016-08-23 08:25:04,472 INFO  [Log] Browser closed 
+2016-08-23 08:25:05,309 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-23 08:25:05,309 INFO  [Log] X 
+2016-08-23 08:25:05,309 INFO  [Log] X 
+2016-08-23 08:25:05,309 INFO  [Log] X 
+2016-08-23 08:25:05,309 INFO  [Log] X 
+2016-08-23 16:37:30,643 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:30,766 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:30,644 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:30,769 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-23 16:37:30,773 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:30,774 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:30,775 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:30,778 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-23 16:37:30,779 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:30,779 INFO  [Log] **************************************************************************************** 
+2016-08-23 16:37:49,955 INFO  [Log]  Excel sheet opened 
+2016-08-23 16:37:49,956 INFO  [Log]  Excel sheet opened 
+2016-08-31 22:42:44,551 INFO  [Log] **************************************************************************************** 
+2016-08-31 22:42:44,563 INFO  [Log] **************************************************************************************** 
+2016-08-31 22:42:44,563 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-31 22:42:44,563 INFO  [Log] **************************************************************************************** 
+2016-08-31 22:42:44,563 INFO  [Log] **************************************************************************************** 
+2016-08-31 22:42:47,389 INFO  [Log]  Excel sheet opened 
+2016-08-31 22:43:11,278 INFO  [Log] New driver instantiated 
+2016-08-31 22:43:11,547 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-31 22:43:29,714 INFO  [Log] Web application launched 
+2016-08-31 22:43:29,778 INFO  [Log] Username picked from excel 
+2016-08-31 22:43:29,778 INFO  [Log] Password picked from excel 
+2016-08-31 22:43:30,579 INFO  [Log] Click is performed on my act 
+2016-08-31 22:43:33,973 INFO  [Log] Username is found 
+2016-08-31 22:43:34,126 INFO  [Log] Data entered into username 
+2016-08-31 22:43:34,174 INFO  [Log] Password is available 
+2016-08-31 22:43:34,263 INFO  [Log] Data entered into pwd 
+2016-08-31 22:43:34,295 INFO  [Log] Login is avasilable 
+2016-08-31 22:43:34,650 INFO  [Log] Login button clicked 
+2016-08-31 22:43:34,651 INFO  [Log] Click action is perfomred on Log Out link 
+2016-08-31 22:43:39,872 INFO  [Log] Browser closed 
+2016-08-31 22:43:40,685 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-31 22:43:40,685 INFO  [Log] X 
+2016-08-31 22:43:40,685 INFO  [Log] X 
+2016-08-31 22:43:40,686 INFO  [Log] X 
+2016-08-31 22:43:40,686 INFO  [Log] X 
+2016-09-01 20:49:02,785 INFO  [Log] **************************************************************************************** 
+2016-09-01 20:49:02,787 INFO  [Log] **************************************************************************************** 
+2016-09-01 20:49:02,787 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-01 20:49:02,787 INFO  [Log] **************************************************************************************** 
+2016-09-01 20:49:02,787 INFO  [Log] **************************************************************************************** 
+2016-09-01 20:49:05,518 INFO  [Log]  Excel sheet opened 
+2016-09-01 20:49:36,522 INFO  [Log] New driver instantiated 
+2016-09-01 20:49:36,821 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-01 20:49:54,149 INFO  [Log] Web application launched 
+2016-09-01 20:49:54,157 INFO  [Log] Username picked from excel 
+2016-09-01 20:49:54,158 INFO  [Log] Password picked from excel 
+2016-09-01 20:49:54,724 INFO  [Log] Click is performed on my act 
+2016-09-01 20:49:59,013 INFO  [Log] Username is found 
+2016-09-01 20:49:59,119 INFO  [Log] Data entered into username 
+2016-09-01 20:49:59,161 INFO  [Log] Password is available 
+2016-09-01 20:49:59,245 INFO  [Log] Data entered into pwd 
+2016-09-01 20:49:59,297 INFO  [Log] Login is avasilable 
+2016-09-01 20:49:59,644 INFO  [Log] Login button clicked 
+2016-09-01 20:49:59,645 INFO  [Log] Click action is perfomred on Log Out link 
+2016-09-01 20:50:06,077 INFO  [Log] Browser closed 
+2016-09-01 20:50:06,578 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-01 20:50:06,579 INFO  [Log] X 
+2016-09-01 20:50:06,579 INFO  [Log] X 
+2016-09-01 20:50:06,579 INFO  [Log] X 
+2016-09-01 20:50:06,579 INFO  [Log] X 
+2016-09-15 09:57:33,025 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:57:33,034 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:57:33,034 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-15 09:57:33,035 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:57:33,035 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:57:36,897 INFO  [Log]  Excel sheet opened 
+2016-09-15 09:58:15,916 INFO  [Log] New driver instantiated 
+2016-09-15 09:58:16,224 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-15 09:58:42,511 INFO  [Log] Web application launched 
+2016-09-15 09:58:42,531 INFO  [Log] Username picked from excel 
+2016-09-15 09:58:42,531 INFO  [Log] Password picked from excel 
+2016-09-15 09:58:43,298 INFO  [Log] Click is performed on my act 
+2016-09-15 09:58:47,434 INFO  [Log] Username is found 
+2016-09-15 09:58:47,570 INFO  [Log] Data entered into username 
+2016-09-15 09:58:47,620 INFO  [Log] Password is available 
+2016-09-15 09:58:47,730 INFO  [Log] Data entered into pwd 
+2016-09-15 09:58:47,781 INFO  [Log] Login is avasilable 
+2016-09-15 09:58:48,269 INFO  [Log] Login button clicked 
+2016-09-15 09:58:48,270 INFO  [Log] Click action is perfomred on Log Out link 
+2016-09-15 09:58:55,946 INFO  [Log] Browser closed 
+2016-09-15 09:58:56,821 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-15 09:58:56,822 INFO  [Log] X 
+2016-09-15 09:58:56,822 INFO  [Log] X 
+2016-09-15 09:58:56,822 INFO  [Log] X 
+2016-09-15 09:58:56,822 INFO  [Log] X 
+2016-09-15 09:59:06,358 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:59:06,364 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:59:06,364 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-15 09:59:06,364 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:59:06,364 INFO  [Log] **************************************************************************************** 
+2016-09-15 09:59:09,622 INFO  [Log]  Excel sheet opened 
+2016-09-15 09:59:34,392 INFO  [Log] New driver instantiated 
+2016-09-15 09:59:34,891 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-15 09:59:44,282 INFO  [Log] Web application launched 
+2016-09-15 09:59:44,288 INFO  [Log] Username picked from excel 
+2016-09-15 09:59:44,288 INFO  [Log] Password picked from excel 
+2016-09-15 09:59:44,942 INFO  [Log] Click is performed on my act 
+2016-09-15 09:59:49,051 INFO  [Log] Username is found 
+2016-09-15 09:59:49,156 INFO  [Log] Data entered into username 
+2016-09-15 09:59:49,207 INFO  [Log] Password is available 
+2016-09-15 09:59:49,316 INFO  [Log] Data entered into pwd 
+2016-09-15 09:59:49,387 INFO  [Log] Login is avasilable 
+2016-09-15 09:59:49,835 INFO  [Log] Login button clicked 
+2016-09-15 09:59:49,836 INFO  [Log] Click action is perfomred on Log Out link 
+2016-09-15 09:59:54,038 INFO  [Log] Browser closed 
+2016-09-15 09:59:54,531 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-15 09:59:54,532 INFO  [Log] X 
+2016-09-15 09:59:54,532 INFO  [Log] X 
+2016-09-15 09:59:54,532 INFO  [Log] X 
+2016-09-15 09:59:54,532 INFO  [Log] X 
+2016-09-20 01:21:07,756 INFO  [Log] **************************************************************************************** 
+2016-09-20 01:21:07,770 INFO  [Log] **************************************************************************************** 
+2016-09-20 01:21:07,770 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-20 01:21:07,770 INFO  [Log] **************************************************************************************** 
+2016-09-20 01:21:07,770 INFO  [Log] **************************************************************************************** 
+2016-09-20 01:21:09,570 INFO  [Log]  Excel sheet opened 
+2016-09-20 01:21:23,500 INFO  [Log] New driver instantiated 
+2016-09-20 01:21:23,604 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-20 01:21:30,744 INFO  [Log] Web application launched 
+2016-09-20 01:21:30,798 INFO  [Log] Username picked from excel 
+2016-09-20 01:21:30,799 INFO  [Log] Password picked from excel 
+2016-09-20 01:21:31,247 INFO  [Log] Click is performed on my act 
+2016-09-20 01:21:34,245 INFO  [Log] Username is found 
+2016-09-20 01:21:34,379 INFO  [Log] Data entered into username 
+2016-09-20 01:21:34,412 INFO  [Log] Password is available 
+2016-09-20 01:21:35,096 INFO  [Log] Data entered into pwd 
+2016-09-20 01:21:35,128 INFO  [Log] Login is avasilable 
+2016-09-20 01:21:35,353 INFO  [Log] Login button clicked 
+2016-09-20 01:21:35,354 INFO  [Log] Click action is perfomred on Log Out link 
+2016-09-20 01:21:38,696 INFO  [Log] Browser closed 
+2016-09-20 01:21:39,285 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-20 01:21:39,285 INFO  [Log] X 
+2016-09-20 01:21:39,285 INFO  [Log] X 
+2016-09-20 01:21:39,285 INFO  [Log] X 
+2016-09-20 01:21:39,286 INFO  [Log] X 
+2017-01-27 06:29:09,808 INFO  [Log] **************************************************************************************** 
+2017-01-27 06:29:09,825 INFO  [Log] **************************************************************************************** 
+2017-01-27 06:29:09,825 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-01-27 06:29:09,825 INFO  [Log] **************************************************************************************** 
+2017-01-27 06:29:09,825 INFO  [Log] **************************************************************************************** 
+2017-01-27 06:29:12,813 INFO  [Log]  Excel sheet opened 
+2017-01-27 06:29:37,010 INFO  [Log] New driver instantiated 
+2017-01-27 06:29:37,076 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-01-27 06:29:47,536 INFO  [Log] Web application launched 
+2017-01-27 06:29:47,566 INFO  [Log] Username picked from excel 
+2017-01-27 06:29:47,567 INFO  [Log] Password picked from excel 
+2017-01-27 06:29:48,100 INFO  [Log] Click is performed on my act 
+2017-01-27 06:29:52,098 INFO  [Log] Username is found 
+2017-01-27 06:29:53,175 INFO  [Log] Data entered into username 
+2017-01-27 06:29:53,283 INFO  [Log] Password is available 
+2017-01-27 06:29:53,504 INFO  [Log] Data entered into pwd 
+2017-01-27 06:29:53,546 INFO  [Log] Login is avasilable 
+2017-01-27 06:29:53,854 INFO  [Log] Login button clicked 
+2017-01-27 06:29:53,854 INFO  [Log] Click action is perfomred on Log Out link 
+2017-01-27 06:29:57,620 INFO  [Log] Browser closed 
+2017-01-27 06:29:58,645 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-01-27 06:29:58,645 INFO  [Log] X 
+2017-01-27 06:29:58,646 INFO  [Log] X 
+2017-01-27 06:29:58,646 INFO  [Log] X 
+2017-01-27 06:29:58,646 INFO  [Log] X 
+2017-02-12 18:15:44,628 INFO  [Log] **************************************************************************************** 
+2017-02-12 18:15:44,653 INFO  [Log] **************************************************************************************** 
+2017-02-12 18:15:44,653 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-12 18:15:44,653 INFO  [Log] **************************************************************************************** 
+2017-02-12 18:15:44,654 INFO  [Log] **************************************************************************************** 
+2017-02-12 18:15:47,920 INFO  [Log]  Excel sheet opened 
+2017-02-12 18:16:28,591 INFO  [Log] New driver instantiated 
+2017-02-12 18:16:28,765 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-02-12 18:17:05,075 INFO  [Log] Web application launched 
+2017-02-12 18:17:05,136 INFO  [Log] Username picked from excel 
+2017-02-12 18:17:05,136 INFO  [Log] Password picked from excel 
+2017-02-12 18:17:05,636 INFO  [Log] Click is performed on my act 
+2017-02-12 18:17:16,086 INFO  [Log] Username is found 
+2017-02-12 18:17:16,230 INFO  [Log] Data entered into username 
+2017-02-12 18:17:16,261 INFO  [Log] Password is available 
+2017-02-12 18:17:17,137 INFO  [Log] Data entered into pwd 
+2017-02-12 18:17:17,188 INFO  [Log] Login is avasilable 
+2017-02-12 18:17:17,508 INFO  [Log] Login button clicked 
+2017-02-12 18:17:17,508 INFO  [Log] Click action is perfomred on Log Out link 
+2017-02-12 18:17:21,793 INFO  [Log] Browser closed 
+2017-02-12 18:17:22,605 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-12 18:17:22,605 INFO  [Log] X 
+2017-02-12 18:17:22,605 INFO  [Log] X 
+2017-02-12 18:17:22,606 INFO  [Log] X 
+2017-02-12 18:17:22,606 INFO  [Log] X 
+2017-03-25 23:23:53,688 INFO  [Log] **************************************************************************************** 
+2017-03-25 23:23:53,717 INFO  [Log] **************************************************************************************** 
+2017-03-25 23:23:53,718 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-25 23:23:53,719 INFO  [Log] **************************************************************************************** 
+2017-03-25 23:23:53,719 INFO  [Log] **************************************************************************************** 
+2017-03-25 23:23:56,866 INFO  [Log]  Excel sheet opened 
+2017-03-25 23:24:29,001 INFO  [Log] New driver instantiated 
+2017-03-25 23:24:29,444 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-03-25 23:24:38,883 INFO  [Log] Web application launched 
+2017-03-25 23:24:38,909 INFO  [Log] Username picked from excel 
+2017-03-25 23:24:38,911 INFO  [Log] Password picked from excel 
+2017-03-25 23:24:39,955 INFO  [Log] Click is performed on my act 
+2017-03-25 23:24:44,125 INFO  [Log] Username is found 
+2017-03-25 23:24:44,304 INFO  [Log] Data entered into username 
+2017-03-25 23:24:45,086 INFO  [Log] Password is available 
+2017-03-25 23:24:45,266 INFO  [Log] Data entered into pwd 
+2017-03-25 23:24:45,305 INFO  [Log] Login is avasilable 
+2017-03-25 23:24:45,638 INFO  [Log] Login button clicked 
+2017-03-25 23:24:45,638 INFO  [Log] Click action is perfomred on Log Out link 
+2017-03-25 23:24:51,470 INFO  [Log] Browser closed 
+2017-03-25 23:24:52,283 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-25 23:24:52,284 INFO  [Log] X 
+2017-03-25 23:24:52,284 INFO  [Log] X 
+2017-03-25 23:24:52,284 INFO  [Log] X 
+2017-03-25 23:24:52,284 INFO  [Log] X 
+2017-04-08 10:45:28,321 INFO  [Log] **************************************************************************************** 
+2017-04-08 10:45:28,323 INFO  [Log] **************************************************************************************** 
+2017-04-08 10:45:28,323 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-08 10:45:28,323 INFO  [Log] **************************************************************************************** 
+2017-04-08 10:45:28,324 INFO  [Log] **************************************************************************************** 
+2017-04-08 10:45:31,178 INFO  [Log]  Excel sheet opened 
+2017-04-08 10:45:47,365 INFO  [Log] New driver instantiated 
+2017-04-08 10:45:47,578 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-08 10:45:55,579 INFO  [Log] Web application launched 
+2017-04-08 10:45:55,606 INFO  [Log] Username picked from excel 
+2017-04-08 10:45:55,607 INFO  [Log] Password picked from excel 
+2017-04-08 10:45:55,872 INFO  [Log] Click is performed on my act 
+2017-04-08 10:45:59,181 INFO  [Log] Username is found 
+2017-04-08 10:45:59,388 INFO  [Log] Data entered into username 
+2017-04-08 10:46:00,011 INFO  [Log] Password is available 
+2017-04-08 10:46:00,165 INFO  [Log] Data entered into pwd 
+2017-04-08 10:46:00,201 INFO  [Log] Login is avasilable 
+2017-04-08 10:46:00,444 INFO  [Log] Login button clicked 
+2017-04-08 10:46:00,444 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-08 10:46:02,871 INFO  [Log] Browser closed 
+2017-04-08 10:46:03,869 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-08 10:46:03,869 INFO  [Log] X 
+2017-04-08 10:46:03,869 INFO  [Log] X 
+2017-04-08 10:46:03,870 INFO  [Log] X 
+2017-04-08 10:46:03,870 INFO  [Log] X 
+2017-04-23 19:37:00,898 INFO  [Log] **************************************************************************************** 
+2017-04-23 19:37:00,913 INFO  [Log] **************************************************************************************** 
+2017-04-23 19:37:00,913 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-23 19:37:00,913 INFO  [Log] **************************************************************************************** 
+2017-04-23 19:37:00,914 INFO  [Log] **************************************************************************************** 
+2017-04-23 19:37:03,006 INFO  [Log]  Excel sheet opened 
+2017-04-23 19:37:22,604 INFO  [Log] New driver instantiated 
+2017-04-23 19:37:22,807 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-23 19:37:38,013 INFO  [Log] Web application launched 
+2017-04-23 19:37:38,044 INFO  [Log] Username picked from excel 
+2017-04-23 19:37:38,045 INFO  [Log] Password picked from excel 
+2017-04-23 19:37:38,612 INFO  [Log] Click is performed on my act 
+2017-04-23 19:37:41,766 INFO  [Log] Username is found 
+2017-04-23 19:37:41,968 INFO  [Log] Data entered into username 
+2017-04-23 19:37:42,851 INFO  [Log] Password is available 
+2017-04-23 19:37:43,027 INFO  [Log] Data entered into pwd 
+2017-04-23 19:37:43,058 INFO  [Log] Login is avasilable 
+2017-04-23 19:37:43,356 INFO  [Log] Login button clicked 
+2017-04-23 19:37:43,356 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-23 19:37:48,279 INFO  [Log] Browser closed 
+2017-04-23 19:37:48,646 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-23 19:37:48,646 INFO  [Log] X 
+2017-04-23 19:37:48,646 INFO  [Log] X 
+2017-04-23 19:37:48,646 INFO  [Log] X 
+2017-04-23 19:37:48,646 INFO  [Log] X 
+2017-05-05 00:52:47,464 INFO  [Log] **************************************************************************************** 
+2017-05-05 00:52:47,481 INFO  [Log] **************************************************************************************** 
+2017-05-05 00:52:47,481 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-05 00:52:47,481 INFO  [Log] **************************************************************************************** 
+2017-05-05 00:52:47,481 INFO  [Log] **************************************************************************************** 
+2017-05-05 00:52:50,443 INFO  [Log]  Excel sheet opened 
+2017-05-05 00:53:43,013 INFO  [Log] New driver instantiated 
+2017-05-05 00:53:43,275 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-05 00:54:23,749 INFO  [Log] Web application launched 
+2017-05-05 00:54:23,835 INFO  [Log] Username picked from excel 
+2017-05-05 00:54:23,836 INFO  [Log] Password picked from excel 
+2017-05-05 00:54:24,453 INFO  [Log] Click is performed on my act 
+2017-05-05 00:54:27,852 INFO  [Log] Username is found 
+2017-05-05 00:54:28,959 INFO  [Log] Data entered into username 
+2017-05-05 00:54:29,010 INFO  [Log] Password is available 
+2017-05-05 00:54:29,155 INFO  [Log] Data entered into pwd 
+2017-05-05 00:54:29,225 INFO  [Log] Login is avasilable 
+2017-05-05 00:54:29,689 INFO  [Log] Login button clicked 
+2017-05-05 00:54:29,689 INFO  [Log] Click action is perfomred on Log Out link 
+2017-05-05 00:54:36,264 INFO  [Log] Browser closed 
+2017-05-05 00:54:37,129 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-05 00:54:37,130 INFO  [Log] X 
+2017-05-05 00:54:37,130 INFO  [Log] X 
+2017-05-05 00:54:37,130 INFO  [Log] X 
+2017-05-05 00:54:37,130 INFO  [Log] X 
